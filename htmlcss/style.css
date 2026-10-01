@@ -1,0 +1,72 @@
+/* * {
+background-color: rgb(104, 94, 80);
+    font-family: Arial, Verdana, sans-serif;
+}
+h1 {
+font-family: "Courier New", monospace;
+color: aliceblue;
+}
+
+i {
+color: red;}
+b {
+color: pink;}
+p  {
+    font-size: 75%;
+color: rgb(170, 170, 176) ;}
+p b {
+color: violet;}
+p#intro {
+font-size: 50%;}
+p {
+font-size: 75%;} */
+/* div{
+    background-color: rgba(11, 101, 17, 0.675);
+    height: 200px;
+    width: 50%;
+    opacity: 1;
+    border-radius:100px ;
+} */
+ /* p{
+     font-family: "Supermercado One", sans-serif;
+     font-size: 15px;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: dotted;
+    line-height: ;
+    letter-spacing: ;
+    word-spacing: ;
+    text-align: center;
+
+
+background-color: #eeeeee;
+color: #000000;
+text-shadow: 1px 1px 0px #a9a4a4;}
+ 
+a{
+    text-decoration: none;
+    color: aqua;
+}
+button:focus{
+    
+background-color: #665544;
+} */
+/* .mahnoor{
+    height: 500px;
+    width: 600px;
+    background-color: aqua;
+    color: beige;
+   
+}
+
+p.two {
+overflow: scroll;
+} */
+button:focus{
+background-color: black;
+color: aliceblue;
+}
+h1{
+    background-color: black;
+}

@@ -1,0 +1,32 @@
+p{
+    color: rgb(0, 0, 0);
+}
+h1{
+ color: blue;
+left: 20px;
+}
+body{
+    background-image: url(download.jpg);
+    background-size: cover;
+    background-position: left;
+    background-image: -moz-linear-gradient(#336666,
+#66cccc);   
+}
+h1 {
+position: absolute;
+left: 500px;
+float: right;
+width: 250px;}
+p {
+width: 450px;}
+
+
+
+/* @media screen and (762*200){
+h1{
+    height: 10px;
+    color: azure;
+}
+
+} */
+    
